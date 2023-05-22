@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Markdowm学习笔记</title>
+      <link href="/2023/05/22/Md%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2023/05/22/Md%E5%AD%A6%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Markdowm学习"><a href="#Markdowm学习" class="headerlink" title="Markdowm学习"></a>Markdowm学习</h1><h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h2 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h2><p><strong>hello world</strong></p><p><em>hello world</em></p><p><em><strong>hello world</strong></em></p><p><del>hello world</del></p><h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><blockquote><p>人生巅峰</p></blockquote><h2 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h2><hr><hr><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p><img src="E:\rubbi\娱乐\live2\转线稿.jpg"></p><p><img src="https://kuangstudy.oss-cn-beijing.aliyuncs.com/bbs/2021/01/20/kuangstudy7539bbbe-e267-4e09-9e73-1c8fadda4407.png"></p><h2 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h2><p>[点击跳转到博客](<a href="https://www.cnblogs.com/">博客园 - 开发者的网上家园 (cnblogs.com)</a>)</p><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><p>1. </p><p>2.<br>3.  </p><ul><li><p>A</p></li><li><p>B</p></li></ul><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><table><thead><tr><th>名字</th><th>姓别</th><th>生日</th></tr></thead><tbody><tr><td>章三</td><td>男</td><td>1997</td></tr></tbody></table><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span></span><br><span class="line">    </span><br></pre></td></tr></table></figure><figure class="highlight py"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">    pr</span><br></pre></td></tr></table></figure><h2 id="图片-1"><a href="#图片-1" class="headerlink" title="图片"></a>图片</h2><p>:pouting_cat:</p><p>:christmas_tree:</p><h2 id="变色"><a href="#变色" class="headerlink" title="变色"></a>变色</h2><p><font color='orange'>并发</font></p><p><font color='blue'>蓝色</font></p><p><font color='red'>红色</font></p><p><font color='bittersweet'>灰色</font></p><p>你好啊</p><p>你好</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇文章</title>
       <link href="/2023/05/15/2023-05-15-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/05/15/2023-05-15-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
@@ -33,31 +46,20 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -80,6 +82,17 @@
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
